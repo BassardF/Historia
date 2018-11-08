@@ -1,6 +1,6 @@
-import * as React from 'react';
-import './App.css';
-import Timeline from './Timeline';
+import * as React from "react";
+import "./App.css";
+import Timeline from "./Timeline";
 
 class App extends React.Component {
   public render() {
